@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="125.185" tests="12" errors="0" skipped="0" failures="2">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_05\jre\bin"/>
+    <property name="java.vm.version" value="25.5-b02"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\Banti.Chowdhury\workspace1\WDDF\WDDF"/>
+    <property name="java.runtime.version" value="1.8.0_05-b13"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_05\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\BANTI~1.CHO\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="C:\Users\Banti.Chowdhury\workspace1\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf2744784797420270779.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_05\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jdk1.8.0_05/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_05/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_05/bin/../jre/lib/amd64;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\Git\cmd;C:\Program Files\Java\jdk1.8.0_05\bin;C:\Program Files (x86)\apache-maven-3.2.5\bin;C:\Program Files (x86)\HP\Unified Functional Testing\bin;C:\Users\Banti.Chowdhury\AppData\Local\Android\android-sdk\tools;C:\Users\Banti.Chowdhury\AppData\Local\Android\android-sdk\platform-tools;C:\Program Files\nodejs\;C:\Users\Banti.Chowdhury\AppData\Roaming\npm;C:\Softwares\eclipse-jee-luna-SR2-win32-x86_64\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\Banti.Chowdhury"/>
+    <property name="user.timezone" value="America/Chicago"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="Banti.Chowdhury"/>
+    <property name="java.class.path" value="/C:/Softwares/eclipse-jee-luna-SR2-win32-x86_64/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.5.1.20150109-1819/jars/plexus-classworlds-2.5.1.jar"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_05\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_05"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_05\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_05\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_05\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_05\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_05\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_05\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_05\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_05\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_05\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Users\Banti.Chowdhury\workspace1\WDDF\WDDF\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="SuiteOneCaseOneTest" classname="com.stta.SuiteOne.SuiteOneCaseOne" time="55.702"/>
+  <testcase name="SuiteOneCaseOneTest" classname="com.stta.SuiteOne.SuiteOneCaseOne" time="10.652"/>
+  <testcase name="SuiteOneCaseTwoTest" classname="com.stta.SuiteOne.SuiteOneCaseTwo" time="25.275"/>
+  <testcase name="SuiteOneCaseTwoTest" classname="com.stta.SuiteOne.SuiteOneCaseTwo" time="10.902">
+    <failure message="The following asserts failed:&#10;ActualResult Value -2 And ExpectedResult Value -3 Not Match" type="java.lang.AssertionError">java.lang.AssertionError: The following asserts failed:
+ActualResult Value -2 And ExpectedResult Value -3 Not Match
+	at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:38)
+	at com.stta.SuiteOne.SuiteOneCaseTwo.SuiteOneCaseTwoTest(SuiteOneCaseTwo.java:128)
+</failure>
+    <system-out><![CDATA[SuiteUtility.WriteResultUtility
+Read_XLS.writeResult
+Read_XLS.retrieveNoOfCols
+Teststarted running:SuiteOneCaseTwoTest at:1482507292391
+SuiteOneCaseTwoTest
+Report.initializeReportForTC
+ SuiteBase.loadWebBrowser
+existing mozila
+1-2 get element start
+ SuiteBase.getElementByName
+1-2 get element start 1
+ SuiteBase.getElementByXPath
+1-2 get element start 2
+ SuiteBase.getElementByID
+Inside id try
+1-2 get element start 3
+ SuiteBase.getElementByXPath
+1-2 get element start 4
+ SuiteBase.getElementByID
+Inside id try
+1-2 get element start 5
+ SuiteBase.getElementByXPath
+1-2 get element start 6
+ SuiteBase.getElementByCSS
+1-2 get element start end
+ SuiteBase.getElementByName
+1-2 1
+1-2 2true-2 == -3
+FAIL
+Screen capture method for SuiteOneCaseTwoTest
+Take screenshot
+File Name
+File copied
+]]></system-out>
+  </testcase>
+  <testcase name="SuiteTwoCaseOneTest" classname="com.stta.SuiteTwo.SuiteTwoCaseOne" time="22.391"/>
+  <testcase name="SuiteTwoCaseOneTest" classname="com.stta.SuiteTwo.SuiteTwoCaseOne" time="10.106"/>
+  <testcase name="SuiteTwoCaseTwoTest" classname="com.stta.SuiteTwo.SuiteTwoCaseTwo" time="21.384"/>
+  <testcase name="SuiteTwoCaseTwoTest" classname="com.stta.SuiteTwo.SuiteTwoCaseTwo" time="10.333">
+    <failure message="The following asserts failed:&#10;ActualResult Value 2.5 And ExpectedResult Value 2.0 Not Match" type="java.lang.AssertionError">java.lang.AssertionError: The following asserts failed:
+ActualResult Value 2.5 And ExpectedResult Value 2.0 Not Match
+	at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:38)
+	at com.stta.SuiteTwo.SuiteTwoCaseTwo.SuiteTwoCaseTwoTest(SuiteTwoCaseTwo.java:117)
+</failure>
+    <system-out><![CDATA[SuiteUtility.WriteResultUtility
+Read_XLS.writeResult
+Read_XLS.retrieveNoOfCols
+Teststarted running:SuiteTwoCaseTwoTest at:1482507358218
+SuiteTwoCaseTwoTest
+Report.initializeReportForTC
+ SuiteBase.loadWebBrowser
+existing mozila
+2-2 get element start
+ SuiteBase.getElementByName
+ SuiteBase.getElementByXPath
+ SuiteBase.getElementByID
+Inside id try
+ SuiteBase.getElementByXPath
+ SuiteBase.getElementByCSS
+2-2 get element start end
+ SuiteBase.getElementByName
+FAIL
+Screen capture method for SuiteTwoCaseTwoTest
+Take screenshot
+File Name
+File copied
+]]></system-out>
+  </testcase>
+  <testcase name="TC_01_TestCase" classname="com.stta.SuiteThree.SuiteThreeCaseOne" time="0.189"/>
+  <testcase name="TC_01_TestCase" classname="com.stta.SuiteThree.SuiteThreeCaseOne" time="0.168"/>
+  <testcase name="TC_02_TestCase" classname="com.stta.SuiteThree.SuiteThreeCaseOne" time="0.119"/>
+  <testcase name="TC_03_TestCase" classname="com.stta.SuiteThree.SuiteThreeCaseTwo" time="0.125"/>
+</testsuite>

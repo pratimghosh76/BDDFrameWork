@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 180.418 sec <<< FAILURE! - in TestSuite
+SuiteOneCaseTwoTest(com.stta.SuiteOne.SuiteOneCaseTwo)  Time elapsed: 10.902 sec  <<< FAILURE!
+java.lang.AssertionError: The following asserts failed:
+ActualResult Value -2 And ExpectedResult Value -3 Not Match
+	at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:38)
+	at com.stta.SuiteOne.SuiteOneCaseTwo.SuiteOneCaseTwoTest(SuiteOneCaseTwo.java:128)
+
+SuiteTwoCaseTwoTest(com.stta.SuiteTwo.SuiteTwoCaseTwo)  Time elapsed: 10.333 sec  <<< FAILURE!
+java.lang.AssertionError: The following asserts failed:
+ActualResult Value 2.5 And ExpectedResult Value 2.0 Not Match
+	at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:38)
+	at com.stta.SuiteTwo.SuiteTwoCaseTwo.SuiteTwoCaseTwoTest(SuiteTwoCaseTwo.java:117)
+

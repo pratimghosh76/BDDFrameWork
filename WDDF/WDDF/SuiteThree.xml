@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="SuiteThree" verbose="1" >
+
+<!-- If add more test cases In this suite, You need to add them as bellow. -->
+
+	<test name="SuiteThree_TestCase1">
+	    <classes>
+	        
+	        <class name="com.stta.SuiteThree.SuiteThreeCaseOne" >	        
+		        <methods>
+		                    <include name="TC_01_TestCase"/>			                    
+		        </methods>
+	        </class>         
+	    </classes>
+	</test>
+	<test name="SuiteThree_TestCase2">
+	    <classes>
+	        
+	        <class name="com.stta.SuiteThree.SuiteThreeCaseOne" >	        
+		        <methods>	       
+		                    <include name="TC_02_TestCase"/>			                    
+		        </methods>
+	        </class>         
+	    </classes>
+	</test>
+	<test name="SuiteThree_TestCase3">
+	    <classes>
+	        <class name="com.stta.SuiteThree.SuiteThreeCaseTwo" >	        
+		        <methods>	       
+		                    <include name="TC_03_TestCase"/>		                    
+		        </methods>
+	        </class>	         
+	    </classes>
+	</test>
+	
+</suite>

@@ -1,0 +1,12 @@
+2016-12-15 23:28:25,570 - rootLogger - INFO - All Excel Files Initialised successfully.
+2016-12-15 23:28:25,574 - rootLogger - INFO - Execution started for SuiteOneBase.
+2016-12-15 23:28:25,804 - rootLogger - INFO - All Excel Files Initialised successfully.
+2016-12-15 23:28:25,804 - rootLogger - INFO - SuiteOneCaseOne : Execution started.
+2016-12-15 23:28:25,834 - rootLogger - INFO - SuiteOneCaseOne : Actual Value 21 and expected value 22 Not match. Test data set failed.
+2016-12-15 23:28:25,862 - rootLogger - INFO - SuiteOneCaseOne : Reporting test data set line 1 as FAIL In excel.
+2016-12-15 23:28:25,907 - rootLogger - INFO - SuiteOneCaseOne : Reporting test data set line 2 as PASS In excel.
+2016-12-15 23:28:25,925 - rootLogger - INFO - SuiteOneCaseOne : Reporting test case as FAIL In excel.
+2016-12-15 23:28:26,646 - rootLogger - INFO - All Excel Files Initialised successfully.
+2016-12-15 23:28:26,857 - rootLogger - INFO - All Excel Files Initialised successfully.
+2016-12-15 23:28:26,885 - rootLogger - INFO - All Excel Files Initialised successfully.
+2016-12-15 23:28:27,105 - rootLogger - INFO - All Excel Files Initialised successfully.

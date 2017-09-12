@@ -1,0 +1,36 @@
+2016-12-29 00:43:30,558 - rootLogger - INFO - All Excel Files Initialised successfully.
+2016-12-29 00:43:30,562 - rootLogger - INFO - Param.properties file loaded successfully.
+2016-12-29 00:43:30,563 - rootLogger - INFO - Objects.properties file loaded successfully.
+2016-12-29 00:43:30,563 - rootLogger - INFO - Execution started for SuiteOneBase.
+2016-12-29 00:43:30,565 - com.stta.utility.Log - INFO - Wrapper class log4j info
+2016-12-29 00:43:30,565 - com.stta.utility.Log - WARN - Wrapper class log4j warn
+2016-12-29 00:43:30,565 - com.stta.utility.Log - ERROR - Wrapper class log4j error
+2016-12-29 00:43:30,567 - rootLogger - INFO - SuiteToRun = N for SuiteOne So Skipping Execution.
+2016-12-29 00:43:30,878 - rootLogger - INFO - All Excel Files Initialised successfully.
+2016-12-29 00:43:30,879 - rootLogger - INFO - Param.properties file loaded successfully.
+2016-12-29 00:43:30,880 - rootLogger - INFO - Objects.properties file loaded successfully.
+2016-12-29 00:43:31,104 - rootLogger - INFO - All Excel Files Initialised successfully.
+2016-12-29 00:43:31,105 - rootLogger - INFO - Param.properties file loaded successfully.
+2016-12-29 00:43:31,105 - rootLogger - INFO - Objects.properties file loaded successfully.
+2016-12-29 00:43:31,106 - rootLogger - INFO - Execution started for SuiteOneBase.
+2016-12-29 00:43:31,106 - com.stta.utility.Log - INFO - Wrapper class log4j info
+2016-12-29 00:43:31,108 - com.stta.utility.Log - WARN - Wrapper class log4j warn
+2016-12-29 00:43:31,108 - com.stta.utility.Log - ERROR - Wrapper class log4j error
+2016-12-29 00:43:31,706 - rootLogger - INFO - All Excel Files Initialised successfully.
+2016-12-29 00:43:31,707 - rootLogger - INFO - Param.properties file loaded successfully.
+2016-12-29 00:43:31,708 - rootLogger - INFO - Objects.properties file loaded successfully.
+2016-12-29 00:43:31,734 - rootLogger - INFO - TC_01_TestCase : Execution started.
+2016-12-29 00:43:31,859 - rootLogger - INFO - TC_01_TestCase : Reporting test case as PASS In excel.
+2016-12-29 00:43:31,935 - rootLogger - INFO - TC_01_TestCase : Execution started.
+2016-12-29 00:43:32,058 - rootLogger - INFO - TC_01_TestCase : Reporting test case as PASS In excel.
+2016-12-29 00:43:32,217 - rootLogger - INFO - All Excel Files Initialised successfully.
+2016-12-29 00:43:32,218 - rootLogger - INFO - Param.properties file loaded successfully.
+2016-12-29 00:43:32,218 - rootLogger - INFO - Objects.properties file loaded successfully.
+2016-12-29 00:43:32,222 - rootLogger - INFO - TC_02_TestCase : Execution started.
+2016-12-29 00:43:32,346 - rootLogger - INFO - TC_02_TestCase : Reporting test case as PASS In excel.
+2016-12-29 00:43:32,499 - rootLogger - INFO - All Excel Files Initialised successfully.
+2016-12-29 00:43:32,500 - rootLogger - INFO - Param.properties file loaded successfully.
+2016-12-29 00:43:32,501 - rootLogger - INFO - Objects.properties file loaded successfully.
+2016-12-29 00:43:41,094 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2016-12-29 00:43:41,425 - rootLogger - INFO - TC_03_TestCase : Execution started.
+2016-12-29 00:43:58,158 - rootLogger - INFO - TC_03_TestCase : Reporting test case as PASS In excel.

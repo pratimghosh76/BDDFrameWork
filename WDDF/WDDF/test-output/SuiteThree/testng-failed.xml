@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SuiteThree]">
+  <listeners>
+    <listener class-name="com.stta.utility.ScreenshotUtility"/>
+  </listeners>
+  <test name="SuiteThree_TestCase3(failed)">
+    <classes>
+      <class name="com.stta.SuiteThree.SuiteThreeCaseOne">
+        <methods>
+          <include name="initializeTestProperties"/>
+          <include name="initializeTestProperties"/>
+          <include name="checkCaseToRun"/>
+          <include name="checkCaseToRun"/>
+          <include name="closeTest"/>
+          <include name="closeTest"/>
+        </methods>
+      </class> <!-- com.stta.SuiteThree.SuiteThreeCaseOne -->
+      <class name="com.stta.SuiteThree.SuiteThreeCaseTwo">
+        <methods>
+          <include name="closeTest"/>
+          <include name="checkCaseToRun"/>
+          <include name="initializeTestProperties"/>
+          <include name="checkSuiteToRun"/>
+          <include name="TC_03_TestCase" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.stta.SuiteThree.SuiteThreeCaseTwo -->
+    </classes>
+  </test> <!-- SuiteThree_TestCase3(failed) -->
+</suite> <!-- Failed suite [SuiteThree] -->
